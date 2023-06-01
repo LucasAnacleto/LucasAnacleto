@@ -4,7 +4,6 @@
 - 🔭 Just another curious soul, constantly seeking new insights and perspectives.
 
 ##
-<br/>
 
 ## 🛠 &nbsp;Tech Stack
 
