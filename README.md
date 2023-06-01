@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Lucas Anacleto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasAnacleto&color=yellow" alt="Profile views" /> </p>
 
-- Just another curious soul, constantly seeking new insights and perspectives.
+- 🔭 Just another curious soul, constantly seeking new insights and perspectives.
 
 ##
 
