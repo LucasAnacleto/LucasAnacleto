@@ -3,8 +3,7 @@
 
 - 🔭 Just another curious soul, constantly seeking new insights and perspectives.
 
-
-<br><br>
+<hr>
 
 ## 🛠 &nbsp;Tech Stack
 
